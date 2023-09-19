@@ -1,0 +1,26 @@
+I. Project title : Imagined speech classification for intuitive BCI communication system
+
+II. Project introduction
+
+   II-1. Objective: The objective of our research in the field of Brain-Computer Interface (BCI) is to develop an intuitive communication system that not only benefits patients with severe motor disabilities 
+                    but also lays the foundation for a futuristic and versatile technology applicable in everyday life. Specifically, we aim to classify and decode neural signals associated with the generation of words, 
+                    enabling a direct and efficient means of communication for individuals with motor impairments. Simultaneously, we strive to create a platform that can be adapted for broader societal use.
+
+   II-2. Motivation: Our motivation is rooted in a dual purpose. Firstly, we are committed to enhancing the quality of life for individuals with severe motor disabilities. These individuals often face immense challenges in 
+                     expressing their thoughts and emotions, leading to frustration and isolation. By developing a BCI system that deciphers imagined speech-related brainwave patterns, we aspire to provide them with a 
+                     direct and intuitive means of communication, offering a lifeline to connect with the world.
+                     Secondly, we are inspired by the prospect of building a forward-looking system that can transcend medical applications. We envision a future where brain-computer communication becomes seamlessly integrated 
+                     into everyday life, revolutionizing how we interact with technology and each other. This vision propels our research, as we believe that universal access to advanced communication tools can usher in a 
+                     new era of inclusivity and convenience. By pushing the boundaries of BCI technology, we aim to shape a future where communication knows no bounds, benefitting individuals of all abilities and society as a whole.
+
+III. Dataset description
+
+   III-1. Experimental setup: The purpose of this experiment is to classifymulti-class imagined speech with a robust performance.Imagined speech of five words/phrases for basic communication (‘hello’, ‘help me’, ‘stop’, ‘thank you’, and ‘yes’) was
+                              recorded.Duringtheexperiment,thesubjectswereseatedinacomfortablechairinfrontofa24-inchLCDmonitorscreen.Thesubjectswereinstructed to imagine the silent pronunciation of the given word as if they were performing real speech, 
+                              without moving any articulators nor making the sound. Subjects were strictly directed not to perform any other brain activity but the given task. They were noted not to move and avoid dye blinks while imagining or receiving the cue. 
+                              All imagination trials were performed while a black screen was provided, without receiving any stimulus in order to avoid any other factors affecting the brain activity.An auditory cue of the five words/phrases wasrandomly presented for 2 s, 
+                              followed by 0.8-1.2 s of a cross mark. The subjects were instructed to perform imagined speech of the given cue as soon as the cross mark disappears on the screen. Four times of cross mark (0.8-1.2 s) and imagined speech phase (2 s) were followed in a row per random cue. 
+                              After performing four times of imagined speech, 3 s of the relaxation phase was given to clear up the mind for the next word/phrase.
+
+   III-2. Data acquisition: The EEG data were recorded with an EEG signal amplifier(BrainAmp, BrainProductGmbH, Germany).The raw data were recorded using BrainVision(BrainProduct GmbH,Germany) with MATLAB2019a(TheMathWorksInc., USA).64 EEG electrodes following a 10-20 international configuration were used 
+                            for the recording. Ground and reference channels were placed on the Fpz and FCz. The impedance of all electrodes between the sensors and the skin of the scalp were maintained below 15kΩ.
