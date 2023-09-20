@@ -33,11 +33,8 @@ This experiment aimed to classify multi-class imagined speech with robust perfor
 The EEG data were recorded with an EEG signal amplifier (BrainAmp, BrainProduct GmbH, Germany). The raw data were recorded using BrainVision (BrainProduct GmbH, Germany) with MATLAB 2019a (The MathWorks Inc., USA). 64 EEG electrodes following a 10-20 international configuration were used for the recording. Ground and reference channels were placed on the Fpz and FCz. The impedance of all electrodes between the sensors and the skin of the scalp was maintained below 15kΩ.
 
 ### 3.3. Dataset Download
-To obtain the Imagined Speech Dataset, click on the link below:
+To obtain the Imagined Speech Dataset, [click here](https://drive.google.com/file/d/1Rrro7t1ZmWr8sHkluwf3vchTZzWYrcPG/view?usp=drive_link).
 
-[Download Dataset]_([https://drive.google.com/file/d/1Rrro7t1ZmWr8sHkluwf3vchTZzWYrcPG/view?usp=drive_link])
-
-Please make sure to cite our work or give appropriate credits if you utilize the dataset for your research or any other purposes.
 
 ## 4. Event Codes
 
