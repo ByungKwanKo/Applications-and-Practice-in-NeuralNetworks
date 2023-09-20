@@ -35,7 +35,7 @@ The EEG data were recorded with an EEG signal amplifier (BrainAmp, BrainProduct 
 ### 3.3. Dataset Download
 To obtain the Imagined Speech Dataset, click on the link below:
 
-[Download Dataset] ([https://drive.google.com/file/d/1Rrro7t1ZmWr8sHkluwf3vchTZzWYrcPG/view?usp=drive_link])
+[Download Dataset]_([https://drive.google.com/file/d/1Rrro7t1ZmWr8sHkluwf3vchTZzWYrcPG/view?usp=drive_link])
 
 Please make sure to cite our work or give appropriate credits if you utilize the dataset for your research or any other purposes.
 
